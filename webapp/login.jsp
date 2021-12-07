@@ -19,8 +19,7 @@
 		<br>
 		Enter Password : <input type="password" name="pword">
 		<br>
-		<input type="submit" value="Submit" class="submitBtn" background:#0066A2;
-     color:white;">
+		<input type="submit" value="Submit">
 		<div style="color:red">${errorMessage}</div>
 		<div style="color:red">${Failed}</div>
 		<div style="color:green">${Sucsess}</div>
